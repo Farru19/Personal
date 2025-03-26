@@ -18,7 +18,7 @@ This project focuses on developing a **Security Operations Center as a Service (
 - 🔹 Strengthened skills in **network segmentation, security automation, and log correlation**.  
 
 ## 📂 Project Documentation  
-- 📄 [Phase 1 Report](#) – Initial project setup, architecture, and objectives.  
-- 📄 [Phase 2 Report](#) – Advanced implementation, testing, and results.  
+- 📄 [Phase 1 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%201.pdf) – Initial project setup, architecture, and objectives.  
+- 📄 [Phase 2 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%202.pdf) – Advanced implementation, testing, and results.  
 
 ---
