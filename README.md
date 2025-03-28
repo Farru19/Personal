@@ -21,15 +21,14 @@ This project focuses on developing a **Security Operations Center as a Service (
 - 📄 [Phase 1 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%201.pdf) – Initial project setup, architecture, and objectives.  
 - 📄 [Phase 2 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%202.pdf) – Advanced implementation, testing, and results.  
 ---
-# 📌 International Domain Name Project Documentation
+#  International Domain Name Project Documentation
 
-### 🔍 Research Internship – NASSCOM CoE – IoT & AI and ICANN  
-**Oct 2021 - Aug 2022**  
+### 🔍 Research Internship – NASSCOM CoE – IoT & AI and ICANN    
 
-#### 📌 Project:  
+#### 📌 Overview  
 Researched the security risks of Internationalized Domain Names (IDNs) and their impact on phishing and brand impersonation.  
 
-#### 🔧 Role & Responsibilities:  
+#### 🔧 Role & Responsibilities 
 - Developed a library for recognizing IDN email addresses in HTML forms.  
 - Created a browser extension to detect and mitigate IDN-based threats.  
 - Researched and analyzed the impact of Unicode domains on phishing and brand impersonation.  
@@ -38,7 +37,7 @@ Researched the security risks of Internationalized Domain Names (IDNs) and their
 - Presented findings on IDN security and UA challenges.  
 - Tested various web applications for compatibility with IDN-based email authentication.  
 
-#### 🏆 Achievements & Learnings:  
+#### 🏆 Achievements & Learnings 
 - Contributed to DNS security improvements by proposing policy recommendations and developing security tools.  
 - Successfully enhanced IDN security awareness through research and tool development.  
 - Engaged with industry experts, leading to valuable insights and collaborations.  
