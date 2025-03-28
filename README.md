@@ -42,3 +42,37 @@ This project focuses on developing a **Security Operations Center as a Service (
 - 📄 [Phase 1 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%201.pdf) – Initial project setup, architecture, and objectives.  
 - 📄 [Phase 2 Report](https://github.com/Farru19/Personal/blob/169af41d0a2a905d997e091bbb5d0f8cf9129801/Bachelors%20Thesis/Phase%202.pdf) – Advanced implementation, testing, and results.  
 ---
+# The Impact of Manifest V3 on Browser Extensions
+
+## 📄 White Paper Overview  
+This white paper provides an in-depth analysis of **Manifest V3 (MV3)** and its implications for browser extensions, focusing on security, privacy, performance, and innovation. With major browser vendors transitioning from Manifest V2 to MV3, this shift introduces both benefits and restrictions that significantly impact cybersecurity tools, ad-blockers, and enterprise security solutions.
+
+## 🔍 Key Areas of Analysis  
+
+- **Security and Privacy Trade-offs**  
+  - Stricter permission models and removal of background scripts enhance security but limit extension capabilities.  
+  - Impact on real-time script execution and request manipulation.  
+
+- **Effect on Content Filtering & Ad-Blocking**  
+  - The new `declarativeNetRequest` API replaces `webRequest` blocking.  
+  - Limitations on rule sets and filtering methods affecting ad-blockers and content filters.  
+
+- **Enterprise Security & API Restrictions**  
+  - Constraints on browser extension APIs impacting security applications like web monitoring, phishing protection, and network traffic analysis.  
+
+- **Performance Enhancements vs. Developer Constraints**  
+  - Improved browser performance and reduced power consumption.  
+  - Restricted flexibility for developers due to API modifications.  
+
+- **Experimental Testing on Browser Extensions**  
+  - Hands-on testing conducted to assess API changes and their effects on cybersecurity solutions.  
+  - Highlights critical challenges and potential workarounds for developers.  
+
+## 🏁 Conclusion  
+Manifest V3 represents a major shift in browser extension development, balancing security improvements with new limitations. While it enhances privacy and performance, it introduces challenges for security-critical applications. This paper explores these trade-offs and provides insights into how cybersecurity professionals and extension developers can adapt.
+
+📖 **Read the full white paper here:**  
+[White Paper on Browser Extensions](https://github.com/Farru19/Personal/blob/cd87066e07ab4aaddfe7e5c5a927d26b8cfb52e5/Publishing/White%20Paper%20on%20Browser%20Extensions.pdf)
+
+---
+
